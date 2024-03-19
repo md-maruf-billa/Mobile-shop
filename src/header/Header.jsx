@@ -48,7 +48,7 @@ const Header = () => {
 
 
                     </div>
-                    <img className="w-[80px] hidden lg:block" src="../../public/favicon.png" alt="" />
+                    <img className="w-[80px] hidden lg:block" src="https://i.postimg.cc/y87vDHpp/favicon.png" alt="" />
                 </div>
 
                 <div className={`z-10 absolute lg:static ${!toggleValue ? 'top-20 left-14 rounded-2xl text-white bg-purple-500 p-5' : 'hidden lg:block'}`}>
